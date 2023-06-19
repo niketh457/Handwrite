@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    font-size: 20px;
+}
+
+.dropdown{
+    margin-left: 20px;
+}
+
+main{
+    margin: 50px;
+}
+
+main h2{
+    font-size: 40px;
+    margin: 40px;
+    padding-top: 20px;
+}
+
+form{
+    text-align: center;
+    justify-content: center;
+    border-radius: 5%;
+    border: 2px solid ;
+    margin-top: 40px;
+}
+
+form div{
+    margin: 20px;
+}
+
+.form-floating{
+    justify-content: center;
+    color: black;
+}
+
+form{
+    text-align: center;
+    justify-content: center;
+    border-radius: 5%;
+    border: 2px solid ;
+    margin-top: 40px;
+}
+
+form div{
+    margin: 20px;
+}
